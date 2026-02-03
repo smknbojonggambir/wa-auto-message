@@ -1,0 +1,9 @@
+{
+  "name": "wa-auto-message",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dayjs": "^1.11.10"
+  }
+}
